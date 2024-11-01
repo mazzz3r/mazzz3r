@@ -1,9 +1,6 @@
 # Hi there, I'm Georgii Butakov! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mazzzzr3&style=flat-square)  
-[![Website](https://img.shields.io/badge/Website-mzr.su-informational?style=flat-square&logo=web&logoColor=white&color=blue)](http://mzr.su)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourlinkedin)
-[![Email](https://img.shields.io/badge/Email-Reach_out-red?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 
 I'm a Middle Cyber Security Specialist with a specialization in OSINT (Open Source Intelligence) and API development. I’m currently studying Computer Science at Innopolis University, where I’m honing my skills in cybersecurity, ethical hacking, and building fast, reliable applications.
 
