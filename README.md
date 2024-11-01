@@ -1,33 +1,61 @@
-<h1 align="center">Hello there 👋, I'm Georgy</h1>
-<h3 align="center">A passionate API developer and CyberSecurity specialist from Russia 🇷🇺</h3>
+# Hi there, I'm Georgii Butakov! 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=mazzzzr3&style=flat-square)  
+[![Website](https://img.shields.io/badge/Website-mzr.su-informational?style=flat-square&logo=web&logoColor=white&color=blue)](http://mzr.su)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourlinkedin)
+[![Email](https://img.shields.io/badge/Email-Reach_out-red?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=nord"><img src="https://github-profile-trophy.vercel.app/?username=mazzz3r&theme=nord&title=Followers,Stars,Commits,Issues,Repositories,PullRequest" alt="mazzz3r" /></a> </p>
+I'm a Middle Cyber Security Specialist with a specialization in OSINT (Open Source Intelligence) and API development. I’m currently studying Computer Science at Innopolis University, where I’m honing my skills in cybersecurity, ethical hacking, and building fast, reliable applications.
 
-- 🔭 I’m currently working on my OSINT tool (u will see soon)
+---
 
-- 🌱 I’m currently learning **pentest, TypeScript**
+## 🛠️ Technologies & Tools
 
-- 👨‍💻 My website is available at [mzr.su](https://mzr.su)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![OSINT](https://img.shields.io/badge/OSINT-Intelligence-informational?style=flat-square&color=blue)
+![Cybersecurity](https://img.shields.io/badge/Security-ethical_hacker-informational?style=flat-square&color=red)
 
-- 💬 Ask me about **OSINT, CyberSec, FastAPI**
+---
 
-- 📫 How to reach me **contact@mzr.ru**
+## 🚀 Projects & Achievements
 
-- ⚡ Fun fact **Github is a file sharing service**
+Here are some of my recent projects that reflect my focus in OSINT and cybersecurity:
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/mazzz3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mazzz3r" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mazzz3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mazzz3r" height="30" width="40" /></a>
-<a href="https://ru.stackoverflow.com/users/378375/mazzz3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13292960" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mazzz3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mazzz3r" height="30" width="40" /></a>
-</p>
+### 🔹 Project 1: [OSINT Data Analyzer](https://github.com/yourusername/osint-analyzer)
+* **Description**: A tool designed to gather and analyze OSINT data for security assessments.
+* **Technologies**: Python, API integration, OSINT tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
+### 🔹 Project 2: [API Security Module](https://github.com/yourusername/api-security-module)
+* **Description**: A security module for APIs to enhance authentication, authorization, and data protection.
+* **Technologies**: FastAPI, Cybersecurity best practices, JWT
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mazzz3r&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=dark" alt="mazzz3r" /></p>
+*(Add more projects as needed)*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mazzz3r&theme=dark" alt="mazzz3r" /></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazzz3r&show_icons=true&locale=en&layout=compact&theme=dark" alt="mazzz3r" /></p>
+## 🌱 Current Learning Focus
+
+I’m currently focusing on:
+- **Advanced OSINT Techniques**: Enhanced data gathering and analysis methods
+- **API Security**: Developing secure, robust APIs with industry-standard practices
+- **Threat Intelligence**: Incorporating machine learning models in cybersecurity
+
+---
+
+## 💬 Let's Connect!
+
+I’m always excited to collaborate on interesting cybersecurity and OSINT projects, or just chat about new ideas. Feel free to reach out via email or connect on LinkedIn!
+
+---
+
+### ⚡ Fun Facts
+
+- 🕵️ OSINT enthusiast and practitioner
+- 🌐 Bilingual: Fluent in Russian and English
+- 🏆 Certifications: [Add relevant certifications here]
+
+---
+
