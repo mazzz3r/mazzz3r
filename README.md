@@ -1,33 +1,89 @@
-<h1 align="center">Hello there 👋, I'm Georgy</h1>
-<h3 align="center">A passionate API developer and CyberSecurity specialist from Russia 🇷🇺</h3>
+<h1 align="center">👋 Hello, I'm Georgii Butakov</h1>
 
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=nord"><img src="https://github-profile-trophy.vercel.app/?username=mazzz3r&theme=nord&title=Followers,Stars,Commits,Issues,Repositories,PullRequest" alt="mazzz3r" /></a> </p>
-
-- 🔭 I’m currently working on my OSINT tool (u will see soon)
-
-- 🌱 I’m currently learning **pentest, TypeScript**
-
-- 👨‍💻 My website is available at [mzr.su](https://mzr.su)
-
-- 💬 Ask me about **OSINT, CyberSec, FastAPI**
-
-- 📫 How to reach me **contact@mzr.ru**
-
-- ⚡ Fun fact **Github is a file sharing service**
-
-<h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/mazzz3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mazzz3r" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mazzz3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mazzz3r" height="30" width="40" /></a>
-<a href="https://ru.stackoverflow.com/users/378375/mazzz3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13292960" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mazzz3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mazzz3r" height="30" width="40" /></a>
+<p align="center">
+  <strong>🇷🇺 Cybersecurity Specialist | OSINT & Social Engineering Expert | Pentester-in-Training</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mazzz3r&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=dark" alt="mazzz3r" /></p>
+Welcome to my GitHub! I’m Georgii, a cybersecurity professional from **Russia**, currently a **middle cybersecurity specialist** with a primary focus on **Open-Source Intelligence (OSINT)**, **social engineering**, **threat hunting**, and **incident response**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mazzz3r&theme=dark" alt="mazzz3r" /></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazzz3r&show_icons=true&locale=en&layout=compact&theme=dark" alt="mazzz3r" /></p>
+<h2>🌐 About Me</h2>
+
+<ul>
+  <li>🔍 <strong>OSINT Expertise:</strong> Proficient in <strong>Maltego</strong> and <strong>SpiderFoot</strong> for comprehensive open-source intelligence gathering and analysis.</li>
+  <li>🎭 <strong>Social Engineering:</strong> Skilled in social engineering techniques, leveraging human psychology to understand, prevent, and test against manipulation tactics that often lead to security breaches.</li>
+  <li>🕵️ <strong>Pentesting (Learning):</strong> Expanding my penetration testing skills, actively exploring vulnerability exploitation techniques.</li>
+  <li>🛡️ <strong>SOC Experience:</strong> Hands-on experience in Security Operations Centers (SOC), covering <strong>threat hunting</strong>, <strong>incident response</strong>, and risk management.</li>
+  <li>⚙️ <strong>Programming Languages:</strong> Skilled in Python, C, C++, Java, and Swift, supporting my cybersecurity and automation projects.</li>
+  <li>🎓 <strong>Background:</strong> Bachelor of Computer Science from <strong>Innopolis University</strong>.</li>
+</ul>
+
+---
+
+<h2>📂 Projects</h2>
+
+<p>I’m focused on creating cybersecurity tools and scripts to aid OSINT, social engineering tactics, and vulnerability assessments. Here's what you can find in my repositories:</p>
+
+<ul>
+  <li>🔗 <strong>OSINT Tools:</strong> Scripts and utilities for efficient information gathering and analysis.</li>
+  <li>🎭 <strong>Social Engineering Resources:</strong> Tools, guides, and insights focused on understanding and preventing manipulation techniques.</li>
+  <li>🛠️ <strong>Pentesting Scripts:</strong> Experimental tools and scripts for penetration testing.</li>
+  <li>📊 <strong>SOC & Incident Response Resources:</strong> Tools and guides for threat hunting, incident analysis, and response management.</li>
+</ul>
+
+---
+
+<h2>🧠 Social Engineering</h2>
+
+<p>Social engineering is a powerful tool in cybersecurity and one of my primary areas of expertise. By understanding and applying social engineering principles, I work to identify and mitigate human-based vulnerabilities. Whether it’s testing defenses through simulated attacks or educating teams, I strive to highlight the human factor as a critical line of defense in any security system.</p>
+
+<p align="center">
+  <em>"The most dangerous part of any security system is the human operating it."</em> – Kevin Mitnick
+</p>
+
+---
+
+<h2>🛠️ Tech & Tools</h2>
+
+<table>
+  <tr>
+    <td><strong>OSINT & Social Engineering Tools</strong></td>
+    <td>Maltego, SpiderFoot, OSINT Framework</td>
+  </tr>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>Python, C, C++, Java, Swift</td>
+  </tr>
+  <tr>
+    <td><strong>Cybersecurity Tools</strong></td>
+    <td>Burp Suite, Nmap, Wireshark, Metasploit, Splunk</td>
+  </tr>
+  <tr>
+    <td><strong>Specialties</strong></td>
+    <td>Social Engineering, OSINT, Threat Hunting, Incident Response, Vulnerability Assessment, Security Automation</td>
+  </tr>
+</table>
+
+---
+
+<h2>🌱 Currently Working On</h2>
+
+<ul>
+  <li>🔐 Advancing my skills in <strong>pentesting methodologies</strong> and <strong>cyber threat intelligence</strong>.</li>
+  <li>📈 Developing tools and scripts for <strong>OSINT</strong>, <strong>social engineering defense</strong>, and <strong>incident response</strong>.</li>
+</ul>
+
+---
+
+<p align="center">
+  💬 <strong>Let’s Connect!</strong> I’m always open to discussions and collaborations in cybersecurity, OSINT, social engineering, and pentesting. Reach out if you'd like to share ideas or work on projects together!
+</p>
+
+<p align="center">
+  <em>"Security is a journey, not a destination."</em>
+</p>
+
+<p align="center">Thank you for visiting my profile, and stay secure! 😊</p>
