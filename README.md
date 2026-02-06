@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hello, I'm Georgii Butakov</h1>
 
 <p align="center">
-  <strong>🇷🇺 Cybersecurity Specialist | OSINT & Social Engineering Expert | Pentester-in-Training</strong>
+  <strong>🇷🇺 Cybersecurity Specialist | OSINT & Social Engineering Expert | Vulnerability Management</strong>
 </p>
 
 ---
 
-Welcome to my GitHub! I’m Georgii, a cybersecurity professional from **Russia**, currently a **middle cybersecurity specialist** with a primary focus on **Open-Source Intelligence (OSINT)**, **social engineering**, **threat hunting**, and **incident response**.
+Welcome to my GitHub! I’m Georgii, a cybersecurity professional from **Russia**, currently a **middle cybersecurity specialist/VM** at **Wildberries**.
 
 ---
 
@@ -15,9 +15,7 @@ Welcome to my GitHub! I’m Georgii, a cybersecurity professional from **Russia*
 <ul>
   <li>🔍 <strong>OSINT Expertise:</strong> Proficient in <strong>Maltego</strong> for comprehensive open-source intelligence gathering and analysis.</li>
   <li>🎭 <strong>Social Engineering:</strong> Skilled in social engineering techniques, leveraging human psychology to understand, prevent, and test against manipulation tactics that often lead to security breaches.</li>
-  <li>🕵️ <strong>Pentesting (Improving):</strong> Expanding my penetration testing skills, actively exploring vulnerability exploitation techniques.</li>
-  <li>🛡️ <strong>SOC Experience:</strong> Hands-on experience in Security Operations Centers (SOC), covering <strong>threat hunting</strong>, <strong>incident response</strong>, and risk management.</li>
-  <li>⚙️ <strong>Programming Languages:</strong> Skilled in Python (most), C, C++ and Java, supporting my cybersecurity and automation projects.</li>
+  <li>⚙️ <strong>Programming Languages:</strong> Skilled in Python, C, C++ and learning GO</li>
   <li>🎓 <strong>Background:</strong> Bachelor of Computer Science from <strong>Innopolis University</strong> (cybersecurity track).</li>
 </ul>
 
