@@ -15,6 +15,9 @@
 <a href="https://www.wildberries.ru">
   <img src="https://img.shields.io/badge/Wildberries-CB11AB?style=flat-square&logoColor=white" alt="Wildberries" />
 </a>
+<a href="https://innopolis.university/en/">
+  <img src="https://img.shields.io/badge/🎓_Innopolis_University-B.Sc._CS-1B7A43?style=flat-square&logoColor=white" alt="Innopolis University" />
+</a>
 
 <br /><br />
 
@@ -38,6 +41,8 @@ output into signal — and lately, I let **agents**
 do the triage.
 
 Less dashboards. More automation that thinks.
+
+B.Sc. in Computer Science, **Innopolis University**.
 
 </td>
 <td width="50%" valign="top">
