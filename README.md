@@ -1,82 +1,95 @@
-<h1 align="center">👋 Hello, I'm Georgii Butakov</h1>
+<div align="center">
 
-<p align="center">
-  <strong>🇷🇺 Cybersecurity Specialist | OSINT & Social Engineering Expert | Vulnerability Management</strong>
+<img src="./mzr.gif" width="540" alt="mzr" />
+
+<br />
+
+# Georgii&nbsp;Butakov
+
+<p>
+  <sub><sup><code>INFRASEC</code></sup></sub>&nbsp;·&nbsp;
+  <sub><sup><code>VULNERABILITY&nbsp;MANAGEMENT</code></sup></sub>&nbsp;·&nbsp;
+  <sub><sup><code>AGENTS</code></sup></sub>
 </p>
 
----
+<a href="https://www.wildberries.ru">
+  <img src="https://img.shields.io/badge/Wildberries-CB11AB?style=flat-square&logoColor=white" alt="Wildberries" />
+</a>
 
-Welcome to my GitHub! I’m Georgii, a cybersecurity professional from **Russia**, currently a **middle cybersecurity specialist/VM** at **Wildberries**.
+<br /><br />
 
----
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=CB11AB&center=true&vCenter=true&width=560&height=40&lines=Building+agentic+triage+at+scale.;Lots+of+scanners%2C+less+noise.;Curious+about+agents+%26+agentic+coding." alt="typing" />
+</picture>
 
-<h2>🌐 About Me</h2>
+</div>
 
-<ul>
-  <li>🔍 <strong>OSINT Expertise:</strong> Proficient in <strong>Maltego</strong> for comprehensive open-source intelligence gathering and analysis.</li>
-  <li>🎭 <strong>Social Engineering:</strong> Skilled in social engineering techniques, leveraging human psychology to understand, prevent, and test against manipulation tactics that often lead to security breaches.</li>
-  <li>⚙️ <strong>Programming Languages:</strong> Skilled in Python, C, C++ and learning GO</li>
-  <li>🎓 <strong>Background:</strong> Bachelor of Computer Science from <strong>Innopolis University</strong> (cybersecurity track).</li>
-</ul>
+<br />
 
----
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<h2>📂 Activity</h2>
+### `whoami`
 
-<p>I’m focused on creating cybersecurity tools and scripts to aid OSINT, social engineering tactics, and vulnerability assessments. Here's what I'm doing:</p>
+InfraSec engineer doing **Vulnerability Management**
+at **Wildberries**. I turn a firehose of scanner
+output into signal — and lately, I let **agents**
+do the triage.
 
-<ul>
-  <li>🔗 <strong>OSINT Tools:</strong> Scripts and utilities for efficient information gathering and analysis.</li>
-  <li>🎭 <strong>Social Engineering Resources:</strong> Tools, guides, and insights focused on understanding and preventing manipulation techniques.</li>
-  <li>📊 <strong>SOC & Incident Response Resources:</strong> Tools mainly for threat hunting.</li>
-</ul>
+Less dashboards. More automation that thinks.
 
----
+</td>
+<td width="50%" valign="top">
 
-<h2>🧠 Social Engineering</h2>
+### `now`
 
-<p>Social engineering is a powerful tool in cybersecurity and one of my primary areas of expertise. By understanding and applying social engineering principles, I work to identify and mitigate human-based vulnerabilities. Whether it’s testing defenses through simulated attacks or educating teams, I strive to highlight the human factor as a critical line of defense in any security system.</p>
+```text
+▸ agentic vulnerability triage
+▸ orchestrating a fleet of scanners
+▸ agentic coding & autonomous agents
+▸ Go, on the side
+```
 
----
-
-<h2>🛠️ Tech & Tools</h2>
-
-<table>
-  <tr>
-    <td><strong>OSINT & Social Engineering Tools</strong></td>
-    <td>Maltego, SpiderFoot, OSINT Framework</td>
-  </tr>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>Python, C, C++, Java</td>
-  </tr>
-  <tr>
-    <td><strong>Cybersecurity Tools</strong></td>
-    <td>Burp Suite, Nmap, Wireshark, Metasploit, SIEM/PTAF/NAD</td>
-  </tr>
-  <tr>
-    <td><strong>Specialties</strong></td>
-    <td>Social Engineering, OSINT, Threat Hunting, Incident Response, Vulnerability Assessment, Security Automation</td>
-  </tr>
+</td>
+</tr>
 </table>
 
----
+<br />
 
-<h2>🌱 Currently Working On</h2>
+<div align="center">
 
-<ul>
-  <li>🔐 Advancing my skills in <strong>pentesting methodologies</strong> and <strong>cyber threat intelligence</strong>.</li>
-  <li>📈 Developing tools and scripts for <strong>OSINT</strong>, and <strong>social engineering defense</strong>.</li>
-</ul>
+### stack
 
----
-
-<p align="center">
-  💬 <strong>Let’s Connect!</strong> I’m always open to discussions and collaborations in cybersecurity, OSINT, social engineering, and pentesting. Reach out if you'd like to share ideas or work on projects together!
+<p>
+  <img src="https://img.shields.io/badge/Python-151515?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-151515?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-151515?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-151515?style=flat-square&logo=cplusplus&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/LLM_Agents-151515?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-151515?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-151515?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-151515?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-<p align="center">
-  <em>"The most dangerous part of any security system is the human operating it."</em> – Kevin Mitnick
-</p>
+</div>
 
-<p align="center">Thank you for visiting my profile, and stay secure! 😊</p>
+<br />
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=mazzz3r&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=CB11AB&text_color=808080&hide=contribs" alt="stats" />
+&nbsp;
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazzz3r&layout=compact&hide_border=true&bg_color=00000000&title_color=CB11AB&text_color=808080&langs_count=6" alt="langs" />
+
+</div>
+
+<br />
+
+<div align="center">
+  <sub>
+    <i>"The most dangerous part of any security system is the human operating it."</i>
+  </sub>
+</div>
