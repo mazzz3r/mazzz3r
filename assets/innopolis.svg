@@ -1,0 +1,19 @@
+<svg width="486" height="150" viewBox="0 0 486 150" xmlns="http://www.w3.org/2000/svg" font-family="ui-sans-serif, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <rect x="1" y="1" width="484" height="148" rx="18" fill="#F3EAD9" stroke="#DCC9A8" stroke-width="1.5"/>
+  <!-- Innopolis University logo: "iU" monogram + wordmark -->
+  <g transform="translate(34,25)">
+    <!-- iU monogram (brand green) -->
+    <g fill="#3DB54A">
+      <rect x="0"   y="0"  width="28" height="24"  rx="2"/>  <!-- i dot -->
+      <rect x="0"   y="36" width="28" height="64"  rx="2"/>  <!-- i stem -->
+      <rect x="44"  y="36" width="28" height="64"  rx="2"/>  <!-- U left wall -->
+      <rect x="100" y="0"  width="28" height="100" rx="2"/>  <!-- U right wall (tall stroke) -->
+      <rect x="44"  y="74" width="84" height="26"  rx="2"/>  <!-- U base -->
+    </g>
+    <!-- wordmark -->
+    <g fill="#1A1A1A" font-weight="800" letter-spacing="0.5">
+      <text x="156" y="46" font-size="42">INNOPOLIS</text>
+      <text x="156" y="94" font-size="42">UNIVERSITY</text>
+    </g>
+  </g>
+</svg>

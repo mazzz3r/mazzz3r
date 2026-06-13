@@ -1,0 +1,90 @@
+<svg width="900" height="360" viewBox="0 0 900 360" fill="none" xmlns="http://www.w3.org/2000/svg" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="brass" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#C9A36B"/>
+      <stop offset="0.5" stop-color="#8A6A45"/>
+      <stop offset="1" stop-color="#5E4129"/>
+    </linearGradient>
+    <linearGradient id="node" x1="700" y1="100" x2="830" y2="210" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#B98A5A"/>
+      <stop offset="1" stop-color="#6B4A2E"/>
+    </linearGradient>
+    <clipPath id="card">
+      <rect x="1" y="1" width="898" height="358" rx="22"/>
+    </clipPath>
+  </defs>
+
+  <!-- panel -->
+  <rect x="1" y="1" width="898" height="358" rx="22" fill="#F3EAD9"/>
+  <g clip-path="url(#card)">
+    <rect x="0" y="0" width="900" height="4" fill="url(#brass)"/>
+
+    <!-- ===== agentic-triage node graph (right), warm brown ===== -->
+    <g stroke="#B08E63" stroke-width="1.5" stroke-opacity="0.75">
+      <line x1="760" y1="150" x2="700" y2="110"/>
+      <line x1="760" y1="150" x2="648" y2="172"/>
+      <line x1="760" y1="150" x2="730" y2="208"/>
+      <line x1="760" y1="150" x2="804" y2="150"/>
+      <line x1="700" y1="110" x2="820" y2="96"/>
+      <line x1="804" y1="150" x2="820" y2="96"/>
+    </g>
+    <!-- scanner sweep -->
+    <g fill="none" stroke="#9A7A52">
+      <circle cx="760" cy="150" r="42" stroke-opacity="0.30" stroke-dasharray="3 7"/>
+      <circle cx="760" cy="150" r="70" stroke-opacity="0.18" stroke-dasharray="3 9"/>
+      <circle cx="760" cy="150" r="100" stroke-opacity="0.10" stroke-dasharray="3 11"/>
+    </g>
+    <!-- nodes -->
+    <g fill="#F3EAD9" stroke="#8A6A45" stroke-width="1.8">
+      <circle cx="700" cy="110" r="5.5"/>
+      <circle cx="648" cy="172" r="5.5"/>
+      <circle cx="730" cy="208" r="5.5"/>
+      <circle cx="804" cy="150" r="5.5"/>
+    </g>
+    <circle cx="820" cy="96" r="6" fill="url(#node)"/>
+    <circle cx="760" cy="150" r="9" fill="url(#node)"/>
+    <circle cx="760" cy="150" r="9" fill="none" stroke="#F3EAD9" stroke-width="2.5"/>
+
+    <!-- ===== text (left) ===== -->
+    <text x="56" y="82" fill="#9A7E5C" font-size="13" font-weight="600" letter-spacing="3.5" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">INFRASEC · VULNERABILITY MANAGEMENT</text>
+    <text x="54" y="158" fill="#3E2E22" font-size="56" font-weight="800" letter-spacing="-1.5">Georgii Butakov</text>
+    <text x="56" y="198" fill="#6B5640" font-size="18">Security automation · agentic triage · OSINT</text>
+    <text x="56" y="230" fill="#9C8568" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">@mazzz3r</text>
+
+    <!-- divider -->
+    <line x1="56" y1="272" x2="844" y2="272" stroke="#DCC9A8" stroke-width="1.2"/>
+
+    <!-- ===== stack chips ===== -->
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">
+      <g>
+        <rect x="56"  y="296" width="74"  height="30" rx="8" fill="#FBF5EA" stroke="#DCC9A8"/>
+        <text x="93"  y="316" fill="#5C4733" text-anchor="middle">Python</text>
+      </g>
+      <g>
+        <rect x="140" y="296" width="44"  height="30" rx="8" fill="#FBF5EA" stroke="#DCC9A8"/>
+        <text x="162" y="316" fill="#5C4733" text-anchor="middle">Go</text>
+      </g>
+      <g>
+        <rect x="194" y="296" width="68"  height="30" rx="8" fill="#FBF5EA" stroke="#DCC9A8"/>
+        <text x="228" y="316" fill="#5C4733" text-anchor="middle">C / C++</text>
+      </g>
+      <g>
+        <rect x="272" y="296" width="56"  height="30" rx="8" fill="#FBF5EA" stroke="#DCC9A8"/>
+        <text x="300" y="316" fill="#5C4733" text-anchor="middle">Bash</text>
+      </g>
+      <g>
+        <rect x="338" y="296" width="60"  height="30" rx="8" fill="#FBF5EA" stroke="#DCC9A8"/>
+        <text x="368" y="316" fill="#5C4733" text-anchor="middle">Linux</text>
+      </g>
+      <g>
+        <rect x="408" y="296" width="68"  height="30" rx="8" fill="#FBF5EA" stroke="#DCC9A8"/>
+        <text x="442" y="316" fill="#5C4733" text-anchor="middle">Docker</text>
+      </g>
+      <g>
+        <rect x="486" y="296" width="108" height="30" rx="8" fill="#FBF5EA" stroke="#DCC9A8"/>
+        <text x="540" y="316" fill="#5C4733" text-anchor="middle">LLM&#160;agents</text>
+      </g>
+    </g>
+  </g>
+  <rect x="1" y="1" width="898" height="358" rx="22" fill="none" stroke="#DCC9A8" stroke-width="1.5"/>
+</svg>
