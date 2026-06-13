@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300" fill="none" role="img" aria-label="Georgii Butakov — InfraSec / Vulnerability Management">
+  <defs>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#CB11AB"/>
+      <stop offset="0.55" stop-color="#7B2FF7"/>
+      <stop offset="1" stop-color="#481173"/>
+    </linearGradient>
+    <linearGradient id="shimmer" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- every skeleton shape, reused as a clip for the shimmer sweep -->
+    <clipPath id="sk">
+      <circle cx="120" cy="96" r="54"/>
+      <rect x="52" y="176" width="170" height="18" rx="9"/>
+      <rect x="52" y="206" width="120" height="13" rx="6.5"/>
+      <rect x="52" y="231" width="150" height="13" rx="6.5"/>
+      <rect x="316" y="182" width="92" height="28" rx="14"/>
+      <rect x="420" y="182" width="138" height="28" rx="14"/>
+      <rect x="570" y="182" width="74" height="28" rx="14"/>
+      <rect x="316" y="232" width="330" height="14" rx="7"/>
+      <rect x="316" y="256" width="250" height="14" rx="7"/>
+    </clipPath>
+  </defs>
+
+  <!-- skeleton placeholder figures -->
+  <g fill="#6b7280" fill-opacity="0.45">
+    <circle cx="120" cy="96" r="54"/>
+    <rect x="52" y="176" width="170" height="18" rx="9"/>
+    <rect x="52" y="206" width="120" height="13" rx="6.5"/>
+    <rect x="52" y="231" width="150" height="13" rx="6.5"/>
+    <rect x="316" y="182" width="92" height="28" rx="14"/>
+    <rect x="420" y="182" width="138" height="28" rx="14"/>
+    <rect x="570" y="182" width="74" height="28" rx="14"/>
+    <rect x="316" y="232" width="330" height="14" rx="7"/>
+    <rect x="316" y="256" width="250" height="14" rx="7"/>
+  </g>
+
+  <!-- animated shimmer sweeping across the skeletons -->
+  <g clip-path="url(#sk)">
+    <rect x="0" y="0" width="220" height="300" fill="url(#shimmer)">
+      <animateTransform attributeName="transform" type="translate" from="-260 0" to="900 0" dur="2.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- loaded content: large title -->
+  <text x="314" y="120" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="62" font-weight="800" fill="url(#name)" letter-spacing="-1.5">Georgii Butakov</text>
+  <text x="318" y="156" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" font-weight="500" fill="#8b94a3" letter-spacing="2">INFRASEC // VULNERABILITY MANAGEMENT // AGENTS</text>
+</svg>
