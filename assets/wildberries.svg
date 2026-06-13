@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="122" height="28" role="img" aria-label="Wildberries">
+  <defs>
+    <linearGradient id="wb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#CB11AB"/>
+      <stop offset="1" stop-color="#481173"/>
+    </linearGradient>
+  </defs>
+  <rect width="122" height="28" rx="6" fill="url(#wb)"/>
+  <path d="M9 7 14 21 19 11 24 21 29 7" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="38" y="18.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#fff">Wildberries</text>
+</svg>
