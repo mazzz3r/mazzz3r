@@ -8,7 +8,7 @@
 
 <p align="center">
   Agentic triage &amp; security scanners in InfraSec&nbsp;/&nbsp;Vulnerability&nbsp;Management,<br/>
-  B.Sc. in Computer Science at Innopolis University<br/>
+  B.Sc. in Computer Science and M.Sc in Cybersecurity at Innopolis University<br/>
   Lately into <b>agentic coding</b>, autonomous <b>agents</b>, and <b>OSINT</b>.
 </p>
 
