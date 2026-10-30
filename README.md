@@ -2,12 +2,14 @@
 
 I find the assets nobody has on record, work out who owns them and follow their vulnerabilities through to the fix. When a scanner doesn't cover something, I build the missing piece. When that scanner is open source, I send the fix upstream.
 
-<a href="https://www.wildberries.ru"><img src="assets/wildberries.svg" width="49%" alt="Wildberries: infrastructure vulnerability management, since 2025" /></a>
-<a href="https://innopolis.university/en/"><img src="assets/innopolis.svg" width="49%" alt="Innopolis University: B.Sc. Computer Science 2022–2026; M.Sc. since 2026. Previously worked in security there, 2023–2025." /></a>
+<p>
+  <a href="https://rwb.ru"><img src="assets/rwb-mark.svg" width="71" height="24" align="absmiddle" alt="" />&nbsp; RWB (Wildberries &amp; Russ)</a> · Infrastructure security<br />
+  <a href="https://innopolis.university/en/"><img src="assets/innopolis-mark.svg" width="24" height="24" align="absmiddle" alt="" />&nbsp; Innopolis University</a> · B.Sc. CS, M.Sc. in progress
+</p>
 
 ### 01 / Find the blind spots
 
-My work lives between **offensive security and infrastructure vulnerability management**. Previously: pentests, OSINT, social engineering and incident investigations at Innopolis University. Now: making sense of the infrastructure at Wildberries, including systems that arrive through acquisitions.
+My work lives between **offensive security and infrastructure vulnerability management**. Previously: pentests, OSINT, social engineering and incident investigations at Innopolis University. Now: making sense of the infrastructure at RWB (Wildberries & Russ), including systems that arrive through acquisitions.
 
 A few things I've built for that work:
 
