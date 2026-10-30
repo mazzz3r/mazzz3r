@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="440" viewBox="0 0 960 440" role="img" aria-labelledby="title desc">
+<title id="title">mazzz3r / Georgii Butakov</title>
+<desc id="desc">Security engineer. Discover the unknown. Understand the exposure. Fix it upstream. A field map connecting discovery, context and remediation.</desc>
+<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".65" fill="#303a43"/></pattern></defs>
+<rect width="960" height="440" rx="16" fill="#0d1117"/>
+<rect x="560" y="24" width="376" height="330" fill="url(#grid)"/>
+<g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="2" fill="#9ca7b3">
+<text x="32" y="38">SECURITY / FIELD NOTES</text><text x="928" y="38" text-anchor="end">MZR.SH ↗</text></g>
+<path d="M32 58H928" stroke="#30363d"/>
+<text x="28" y="162" font-family="Arial, Helvetica, sans-serif" font-size="98" font-weight="800" letter-spacing="-6" fill="#eff3ed">mazzz3r<tspan fill="#b7f76b">.</tspan></text>
+<text x="34" y="202" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" fill="#b7f76b">Georgii Butakov / security engineer</text>
+<g font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#eff3ed"><text x="32" y="267">Find what’s missing.</text><text x="32" y="305">Make it make sense.</text><text x="32" y="343">Leave it fixed.</text></g>
+<g fill="none" stroke="#46533e" stroke-width="1.5"><path d="M606 111L700 157 831 101M700 157L873 209 758 287 628 277 700 157M628 277L591 207M758 287L865 322"/><circle cx="700" cy="157" r="50" stroke-dasharray="3 7"/><circle cx="700" cy="157" r="30" stroke="#b7f76b"/></g>
+<g fill="#0d1117" stroke="#b7f76b" stroke-width="2"><circle cx="606" cy="111" r="5"/><circle cx="831" cy="101" r="5"/><circle cx="873" cy="209" r="5"/><circle cx="758" cy="287" r="5"/><circle cx="628" cy="277" r="5"/><circle cx="591" cy="207" r="5"/><circle cx="865" cy="322" r="5"/></g>
+<circle cx="700" cy="157" r="7" fill="#b7f76b"/>
+<g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#b0bdc6"><text x="593" y="91">unknown</text><text x="815" y="82">asset</text><text x="822" y="192">owner</text><text x="741" y="315">context</text><text x="584" y="300">exposure</text><text x="830" y="348" fill="#b7f76b">fix ↗</text></g>
+<path d="M32 377H928" stroke="#30363d"/>
+<g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#c5ced5"><text x="32" y="413"><tspan fill="#b7f76b">01</tspan> DISCOVER</text><text x="350" y="413"><tspan fill="#b7f76b">02</tspan> UNDERSTAND</text><text x="700" y="413"><tspan fill="#b7f76b">03</tspan> FIX UPSTREAM</text></g>
+</svg>

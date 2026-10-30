@@ -1,0 +1,5 @@
+# Asset sources
+
+- `hero.svg`: original vector composition for this profile. Designed for GitHub dark backgrounds; no external fonts, scripts or animation.
+- `wildberries.svg`: lowercase Wildberries wordmark geometry retained from the existing profile asset. Lowercase identity corroborated by [RBC, 6 August 2024](https://www.rbc.ru/rbcfreenews/66b2525d9a794760576629d3). This is the marketplace identity, not the separate RWB corporate mark used at [career.rwb.ru](https://career.rwb.ru/). Card layout and colour adapted for the dark profile.
+- `innopolis.svg`: complete IU monogram isolated from the existing vector without clipping. Geometry and green colour cross-checked against [registered trademark 990414](https://companies.rbc.ru/trademark/990414/universitet-innopolis-iu/) and its [reference image](https://s.rbk.ru/v1_companies_s3/media/trademarks/1de94dd8-aaad-4b0f-abaa-1b34d8fab9bc.jpg). Text and dark card layout adapted for this profile. The IU identity is used intentionally; the university's current homepage uses a different circular emblem. Logos remain the property of their respective owners.
