@@ -1,11 +1,6 @@
-<a href="https://mzr.sh"><img src="assets/hero.svg" width="100%" alt="mazzz3r / Georgii Butakov. Security engineer. Find what’s missing. Make it make sense. Leave it fixed." /></a>
+<a href="https://mzr.sh"><img src="assets/hero.svg" width="100%" alt="mazzz3r / Georgii Butakov. Security engineer. Find what’s missing. Make it make sense. Leave it fixed. Work: infrastructure security at RWB (Wildberries &amp; Russ). Study: Innopolis University, B.Sc. CS and M.Sc. in progress." /></a>
 
 I find the assets nobody has on record, work out who owns them and follow their vulnerabilities through to the fix. When a scanner doesn't cover something, I build the missing piece. When that scanner is open source, I send the fix upstream.
-
-<p>
-  <a href="https://rwb.ru"><img src="assets/rwb-mark.svg" width="71" height="24" align="absmiddle" alt="" />&nbsp; RWB (Wildberries &amp; Russ)</a> · Infrastructure security<br />
-  <a href="https://innopolis.university/en/"><img src="assets/innopolis-mark.svg" width="24" height="24" align="absmiddle" alt="" />&nbsp; Innopolis University</a> · B.Sc. CS, M.Sc. in progress
-</p>
 
 ### 01 / Find the blind spots
 
