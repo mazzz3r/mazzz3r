@@ -1,25 +1,54 @@
-<div align="center">
-  <img src="assets/header.svg" width="900" alt="Georgii Butakov — InfraSec · Vulnerability Management" />
-</div>
+<a href="https://mzr.sh"><img src="assets/hero.svg" width="100%" alt="mazzz3r / Georgii Butakov. Security engineer. Find what’s missing. Make it make sense. Leave it fixed." /></a>
 
-<p align="center">
-  <b>I turn noisy scanner output into signal.</b>
-</p>
+I find the assets nobody has on record, work out who owns them and follow their vulnerabilities through to the fix. When a scanner doesn't cover something, I build the missing piece. When that scanner is open source, I send the fix upstream.
 
-<p align="center">
-  Agentic triage &amp; security scanners in InfraSec&nbsp;/&nbsp;Vulnerability&nbsp;Management,<br/>
-  B.Sc. in Computer Science and M.Sc in Cybersecurity at Innopolis University<br/>
-  Lately into <b>agentic coding</b>, autonomous <b>agents</b>, and <b>OSINT</b>.
-</p>
+<a href="https://www.wildberries.ru"><img src="assets/wildberries.svg" width="49%" alt="Wildberries: infrastructure vulnerability management, since 2025" /></a>
+<a href="https://innopolis.university/en/"><img src="assets/innopolis.svg" width="49%" alt="Innopolis University: B.Sc. Computer Science 2022–2026; M.Sc. since 2026. Previously worked in security there, 2023–2025." /></a>
 
-<div align="center">
-  <img src="assets/wildberries.svg" height="62" alt="Wildberries" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/innopolis.svg" height="62" alt="Innopolis University" />
-</div>
+### 01 / Find the blind spots
 
-<p align="center">
-  <a href="https://t.me/mazzz3r"><img src="assets/telegram.svg" height="14" align="absmiddle" alt="" />&nbsp;@mazzz3r</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:mazzz3r@gmail.com"><img src="assets/email.svg" height="14" align="absmiddle" alt="" />&nbsp;mazzz3r@gmail.com</a>
-</p>
+My work lives between **offensive security and infrastructure vulnerability management**. Previously: pentests, OSINT, social engineering and incident investigations at Innopolis University. Now: making sense of the infrastructure at Wildberries, including systems that arrive through acquisitions.
+
+A few things I've built for that work:
+
+- **Shadow IT discovery.** A scanner and a process for finding assets and services missing from the inventory.
+- **Perimeter monitoring.** A scanner that watches open ports on the external perimeter.
+- **Asset enrichment.** A tool that connects an asset to its owner and context, used by VM, SOC and AppSec.
+
+### 02 / Give something back
+
+I contribute to **[ProjectDiscovery](https://github.com/projectdiscovery)**, including **naabu, nuclei and httpx**. The fixes come from using these tools against real infrastructure.
+
+| Tool | A contribution that's been merged |
+| :--- | :--- |
+| **naabu** | [Make stream mode respect the exclusion list](https://github.com/projectdiscovery/naabu/pull/1781) |
+| **nuclei** | [Pin a target to a specific IP](https://github.com/projectdiscovery/nuclei/pull/7863) |
+| **httpx** | [Support IP-pinned targets in JSON input](https://github.com/projectdiscovery/httpx/pull/2691) |
+
+<details>
+<summary>More upstream work</summary>
+
+- **naabu:** [OS fingerprints in output](https://github.com/projectdiscovery/naabu/pull/1787), [upload chunk boundaries](https://github.com/projectdiscovery/naabu/pull/1785), [standalone dashboard uploads](https://github.com/projectdiscovery/naabu/pull/1783), [timeout parsing](https://github.com/projectdiscovery/naabu/pull/1765).
+- **nuclei:** [randomised payload combinations](https://github.com/projectdiscovery/nuclei/pull/7914), [template info placeholders](https://github.com/projectdiscovery/nuclei/pull/7940), [progress reporting](https://github.com/projectdiscovery/nuclei/pull/7861).
+- **httpx:** [configurable metrics port](https://github.com/projectdiscovery/httpx/pull/2666).
+- **fastdialer:** [cache keys for pinned IPs](https://github.com/projectdiscovery/fastdialer/pull/580).
+- **clistats:** [caller-provided metrics](https://github.com/projectdiscovery/clistats/pull/122).
+
+[All my ProjectDiscovery pull requests →](https://github.com/pulls?q=is%3Apr+author%3Amazzz3r+org%3Aprojectdiscovery)
+
+</details>
+
+### 03 / Follow the curiosity
+
+I've also reported a vulnerability that's currently **under triage**.
+<!-- Add the CVE identifier and public advisory once confirmed. Do not infer severity or disclosure status. -->
+
+Outside the day job, I explore **agentic coding, autonomous agents and OSINT**. I like tools that turn an investigation into something repeatable.
+
+---
+
+**More of the picture:** [mzr.sh ↗](https://mzr.sh)
+
+**Start a conversation:** [Telegram](https://t.me/mazzz3r) · [Email](mailto:contact@mzr.su) · [LinkedIn](https://www.linkedin.com/in/mazzz3r/)
+
+<!-- Logo sources and attribution: assets/SOURCES.md. -->
