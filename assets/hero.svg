@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="440" viewBox="0 0 960 440" role="img" aria-labelledby="title desc">
-<title id="title">mazzz3r / Georgii Butakov</title>
-<desc id="desc">Security engineer. Discover the unknown. Understand the exposure. Fix it upstream. A field map connecting discovery, context and remediation.</desc>
-<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".65" fill="#303a43"/></pattern></defs>
-<rect width="960" height="440" rx="16" fill="#0d1117"/>
-<rect x="560" y="24" width="376" height="330" fill="url(#grid)"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="520" viewBox="0 0 960 520" role="img" aria-labelledby="title-a desc-a">
+<title id="title-a">mazzz3r / Georgii Butakov</title>
+<desc id="desc-a">Security engineer. Discover the unknown. Understand the exposure. Fix it upstream. A field map connecting discovery, context and remediation. Work: infrastructure security at RWB (Wildberries &amp; Russ). Study: Innopolis University, B.Sc. CS and M.Sc. in progress.</desc>
+<defs><pattern id="grid-a" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".65" fill="#303a43"/></pattern></defs>
+<rect width="960" height="520" rx="16" fill="#0d1117"/>
+<rect x="560" y="24" width="376" height="330" fill="url(#grid-a)"/>
 <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="2" fill="#9ca7b3">
 <text x="32" y="38">SECURITY / FIELD NOTES</text><text x="928" y="38" text-anchor="end">MZR.SH ↗</text></g>
 <path d="M32 58H928" stroke="#30363d"/>
@@ -14,6 +14,9 @@
 <g fill="#0d1117" stroke="#b7f76b" stroke-width="2"><circle cx="606" cy="111" r="5"/><circle cx="831" cy="101" r="5"/><circle cx="873" cy="209" r="5"/><circle cx="758" cy="287" r="5"/><circle cx="628" cy="277" r="5"/><circle cx="591" cy="207" r="5"/><circle cx="865" cy="322" r="5"/></g>
 <circle cx="700" cy="157" r="7" fill="#b7f76b"/>
 <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#b0bdc6"><text x="593" y="91">unknown</text><text x="815" y="82">asset</text><text x="822" y="192">owner</text><text x="741" y="315">context</text><text x="584" y="300">exposure</text><text x="830" y="348" fill="#b7f76b">fix ↗</text></g>
-<path d="M32 377H928" stroke="#30363d"/>
-<g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#c5ced5"><text x="32" y="413"><tspan fill="#b7f76b">01</tspan> DISCOVER</text><text x="350" y="413"><tspan fill="#b7f76b">02</tspan> UNDERSTAND</text><text x="700" y="413"><tspan fill="#b7f76b">03</tspan> FIX UPSTREAM</text></g>
-</svg>
+<path d="M32 382H928M480 411V491" stroke="#30363d"/>
+<g font-family="Menlo, Consolas, monospace" font-size="12" fill="#9ca7b3" letter-spacing="2"><text x="32" y="415">WORK</text><text x="512" y="415">STUDY</text></g>
+<g transform="translate(32 445) scale(1.18)"><path fill="#fff" d="M23.514 27.096h-5.318l-3.34-5.88H0v-4.222h16.722c1.925 0 3.485-1.545 3.485-3.451s-1.56-3.452-3.485-3.452H0V5.88h17.36c4.276 0 7.743 3.433 7.743 7.668 0 3.339-2.159 6.171-5.167 7.224zm23.306-5.88h-2.707l-4.227-7.47-4.23 7.47H32.95L24.266 5.88h5.314l4.723 8.335 4.722-8.335h1.72l4.722 8.334 4.722-8.334h5.314zm27.478 0h-17.36v-4.222H73.66c1.925 0 3.486-1.545 3.486-3.451s-1.56-3.451-3.486-3.451H56.938V0h5.183v5.88h12.177c4.276 0 7.743 3.433 7.743 7.668s-3.467 7.668-7.743 7.668"/></g>
+<g transform="translate(512 440) scale(.9)"><path d="M13.0469 0H0V13.0469H13.0469V0Z" fill="#40BA21" /><path d="M47.8182 0H34.7756V34.7532H30.4283V0H17.3857V47.7913H28.25V47.7958H41.297V47.7913H47.8182V0Z" fill="#40BA21" /><path d="M13.0469 17.3726H0V47.7917H13.0469V17.3726Z" fill="#40BA21" /></g>
+<g font-family="Arial, Helvetica, sans-serif" fill="#eff3ed" font-size="20"><text x="154" y="456">Infrastructure security</text><text x="575" y="456">Innopolis University</text></g>
+<g font-family="Menlo, Consolas, monospace" font-size="13" fill="#9ca7b3"><text x="154" y="482">RWB / Wildberries &amp; Russ</text><text x="575" y="482">B.Sc. CS · M.Sc. in progress</text></g></svg>
